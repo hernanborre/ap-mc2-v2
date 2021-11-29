@@ -2,7 +2,8 @@ Crear una cuenta propia en https://github.com/
 git remote -v 
 // nos lista las urls con los repositorios en la nube
 
-
+Comandos más típicos siempre antes de hacer un commit nuestro
+git pull
 git status
 git add . 
 git commit -m "mensaje del commit"
@@ -20,3 +21,4 @@ Bash: https://es.wikipedia.org/wiki/Bash
 ZSH: https://es.wikipedia.org/wiki/Zsh
 
 Cheetsheet comandos Bash: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+
