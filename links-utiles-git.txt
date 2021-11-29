@@ -1,4 +1,6 @@
-Crear una cuenta propia en https://github.com/ 
+1) Para crear una cuenta propia: https://github.com/ 
+2) Para descargar git a sus computadoras: https://git-scm.com/downloads
+
 git remote -v 
 // nos lista las urls con los repositorios en la nube
 
