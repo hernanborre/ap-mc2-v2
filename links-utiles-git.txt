@@ -30,7 +30,7 @@ ZSH: https://es.wikipedia.org/wiki/Zsh
 
 Cheetsheet comandos Bash: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 
-*Así se sale de VIM:* ESC + :q! + Enter
+Así se sale de VIM: ESC + :q! + Enter
 
 
 
