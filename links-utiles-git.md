@@ -26,9 +26,17 @@ Infografía git branches: https://argentinaprograma.inti.gob.ar/mod/h5pactivity/
 
 
 Bash: https://es.wikipedia.org/wiki/Bash
-ZSH: https://es.wikipedia.org/wiki/Zsh
-
+ZSH (parecido a bash, otra consola): https://es.wikipedia.org/wiki/Zsh
 Cheetsheet comandos Bash: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+
+Terminal Bash tuto de 1 hora interesante:
+https://www.youtube.com/watch?v=ZidJzAf4VSw&ab_channel=AlbertCoronado
+
+Markdown: 
+Qué es?: https://es.wikipedia.org/wiki/Markdown
+Cheetsheet: https://www.markdownguide.org/cheat-sheet/
+
+Video para instalación de github (extra soporte) con configuración nueva de credenciales (PAT - Personal Access Token): https://youtu.be/2nzOI-ynXF4
 
 Así se sale de VIM: ESC + :q! + Enter
 
