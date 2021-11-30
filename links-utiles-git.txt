@@ -1,4 +1,7 @@
 Crear una cuenta propia en https://github.com/ 
+Descargar e Instalar GIT: https://git-scm.com/downloads 
+VS Code: https://code.visualstudio.com/
+
 git remote -v 
 // nos lista las urls con los repositorios en la nube
 
@@ -6,7 +9,9 @@ Comandos más típicos siempre antes de hacer un commit nuestro
 git pull
 git status
 git add . 
+git status
 git commit -m "mensaje del commit"
+git status
 git push
 
 // git push origin master 
@@ -15,7 +20,6 @@ Playground git: https://learngitbranching.js.org/
 
 Infografía git branches: https://argentinaprograma.inti.gob.ar/mod/h5pactivity/view.php?id=223
 
-VS Code: https://code.visualstudio.com/
 
 Bash: https://es.wikipedia.org/wiki/Bash
 ZSH: https://es.wikipedia.org/wiki/Zsh
