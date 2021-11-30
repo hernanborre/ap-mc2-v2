@@ -2,8 +2,12 @@ Crear una cuenta propia en https://github.com/
 Descargar e Instalar GIT: https://git-scm.com/downloads 
 VS Code: https://code.visualstudio.com/
 
+// listar las urls con los repositorios en la nube
 git remote -v 
-// nos lista las urls con los repositorios en la nube
+
+// ver las credenciales de github que están configuradas en mi propia compu
+git config --list --show-origin
+
 
 Comandos más típicos siempre antes de hacer un commit nuestro
 git pull
@@ -25,4 +29,8 @@ Bash: https://es.wikipedia.org/wiki/Bash
 ZSH: https://es.wikipedia.org/wiki/Zsh
 
 Cheetsheet comandos Bash: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
+
+*Así se sale de VIM:* ESC + :q! + Enter
+
+
 
