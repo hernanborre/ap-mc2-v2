@@ -12,7 +12,7 @@ git config --list --show-origin
 Comandos más típicos siempre antes de hacer un commit nuestro
 git pull
 git status
-git add . 
+git add .
 git status
 git commit -m "mensaje del commit"
 git status
