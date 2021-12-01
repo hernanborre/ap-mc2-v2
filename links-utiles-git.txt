@@ -7,6 +7,10 @@ Qué es un archivo con extensión .md (markdown): https://youtu.be/gPu0EoUoGqg
 // listar las urls con los repositorios en la nube
 git remote -v 
 
+
+git config user.name "tuusernamedegit"
+git config user.email "tuemail@gmail.com"
+git config user.password "TU Personal Access Token generado sin comillas"
 // ver las credenciales de github que están configuradas en mi propia compu
 git config --list --show-origin
 
@@ -25,6 +29,11 @@ git push
 Playground git: https://learngitbranching.js.org/
 
 Infografía git branches: https://argentinaprograma.inti.gob.ar/mod/h5pactivity/view.php?id=223
+
+
+
+
+
 
 
 Bash: https://es.wikipedia.org/wiki/Bash
