@@ -2,6 +2,8 @@ Crear una cuenta propia en https://github.com/
 Descargar e Instalar GIT: https://git-scm.com/downloads 
 VS Code: https://code.visualstudio.com/
 
+Qué es un archivo con extensión .md (markdown): https://youtu.be/gPu0EoUoGqg 
+
 // listar las urls con los repositorios en la nube
 git remote -v 
 
